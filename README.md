@@ -18,6 +18,6 @@ python main.py
 - Selection of sorting speed
 - Enter your own array or generate a random one
 
-- ## License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
